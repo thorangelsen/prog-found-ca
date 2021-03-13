@@ -27,13 +27,13 @@ console.log(numbers);
 
 //question 5
 
-for (var i = 15; i <= 20; i++) {
+for (var i = 15; i <= 25; i++) {
     console.log(i);
 }
 
 //question 6
 
-for (var i = 15; i <= 20; i++) {
+for (var i = 15; i <= 25; i++) {
     if (i = 20);
     console.log(i)
 }
